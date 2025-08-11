@@ -80,6 +80,7 @@ MIT License
 ---
 
     Python such a greate language, with community and libraries are much easy to find.
+    This is how you become a malware developer, shhh🤫
 
 ---
 
