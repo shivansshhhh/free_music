@@ -57,10 +57,14 @@ If your VLC install path is different, modify this line in luna.py:
     vlc_path = r"C:\Program Files\VideoLAN\VLC"
     Make sure libvlc.dll is located inside that folder.
 
-### 🐚 CMD Shell Version
+### 🐚 CMD Shell Version for Win
 For a more interactive shell experience (like luna > play shape of you), check the companion repo:
 
-🔗 github.com/shivansshhhh/luna-shell
+    Download luna.exe open it.
+    Download VLC player 64bit install it.
+    set path inside encvironment variables of where your luna.exe located.
+    open shell or cmd type- "luna <song name>.
+    enjoy song.
 
 ### 📃 License
 MIT License
@@ -73,7 +77,9 @@ MIT License
 
     VLC
 
+---
+
+    Python such a greate language, with community and libraries are much easy to find.
 
 ---
 
-    
